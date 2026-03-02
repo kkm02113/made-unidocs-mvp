@@ -1,2 +1,2 @@
-# 220302_github_io
-220302 Github.io 실습
+# Edutech Unidocs 일처리
+AI 핵심 기능 + 프론트엔드
